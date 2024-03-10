@@ -10,17 +10,8 @@
   <img height="200" src="https://github.com/VishShaji/Icon/blob/main/pic.jpg"  />
 </div>
 <div align="center">
-  <img style="border-radius: 50%; overflow: hidden;" height="200" src="https://github.com/VishShaji/Icon/blob/main/pic.jpg" />
+  <img style="width: 200px; height: 200px; border-radius: 50%;" src="https://github.com/VishShaji/Icon/blob/main/pic.jpg" />
 </div>
-<div align="center">
-  <img style="border-radius: 50%; width: 200px; height: 200px; object-fit: cover;" src="https://github.com/VishShaji/Icon/blob/main/pic.jpg" />
-</div>
-<div align="center">
-  <div style="width: 200px; height: 200px; border-radius: 50%; overflow: hidden;">
-    <img style="width: 100%; height: 100%; object-fit: cover;" src="https://github.com/VishShaji/Icon/blob/main/pic.jpg" />
-  </div>
-</div>
-
 
 
 <div align="left">
