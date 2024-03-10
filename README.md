@@ -6,25 +6,10 @@
 
 ###
 
-<style>
-  .circular-img {
-    width: 200px;
-    height: 200px;
-    border-radius: 50%;
-    object-fit: cover;
-  }
-</style>
 
-<div align="center">
-  <img class="circular-img" src="https://github.com/VishShaji/Icon/blob/main/pic.jpg" />
-</div>
 <div align="center">
   <img height="200" src="https://github.com/VishShaji/Icon/blob/main/pic.jpg"  />
 </div>
-<div align="center">
-  <img style="width: 200px; height: 200px; border-radius: 50%;" src="https://github.com/VishShaji/Icon/blob/main/pic.jpg" />
-</div>
-
 
 <div align="left">
 <a href="https://www.linkedin.com/in/vishalshaji">
