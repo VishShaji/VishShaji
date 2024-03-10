@@ -46,7 +46,7 @@
 
 ###
 
-<img src="https://github.com/VishShaji/Workflow/blob/main/snake.yml" alt="Snake animation" />
+<img src="https://github.com/VishShaji/VishShaji/.github/workflow/snake.yml" alt="Snake animation" />
 
 ###
 <div align="center">
