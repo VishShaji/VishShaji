@@ -9,6 +9,10 @@
 <div align="center">
   <img height="200" src="https://github.com/VishShaji/Icon/blob/main/pic.jpg"  />
 </div>
+<div align="center">
+  <img style="border-radius: 50%; overflow: hidden;" height="200" src="https://github.com/VishShaji/Icon/blob/main/pic.jpg" />
+</div>
+
 
 <div align="left">
 <a href="https://www.linkedin.com/in/vishalshaji">
