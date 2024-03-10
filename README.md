@@ -2,7 +2,10 @@
 
 ###
 
-<p align="left">My name is Vishal Shaji and I'm a Data Science Enthusiast from the southern side of India.</p>
+<p align="left"> Welcome to my GitHub profile! I'm Vishal Shaji, a passionate data enthusiast with a focus on data analytics and data science.</p>
+<p align="left"> 🔍 Despite my background in civil engineering, I'm passionate about leveraging data to derive insights and solve complex problems. Through self-learning and hands-on experience, I've developed proficiency in Python, Pandas, BeautifulSoup, Matplotlib, Seaborn, Dash, Scikit-learn, and SQL, as well as tools like Microsoft Excel and Power BI..</p>
+<p align="left"> 🚀 Currently pursuing my degree in civil engineering, I'm actively exploring opportunities to apply my analytical skills to the world of data science. My projects on GitHub showcase my dedication to mastering data analysis techniques and my enthusiasm for learning new technologies.</p>
+<p align="left">💻 While my journey into data analytics may be unconventional, I'm committed to making a successful career shift and contributing meaningfully to the field. I'm eager to connect with mentors, peers, and potential employers who share my passion for data-driven insights and innovation.</p>
 
 ###
 
