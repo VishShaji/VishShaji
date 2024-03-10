@@ -11,7 +11,7 @@
 
 
 <div align="center">
-  <img height="200" src="https://github.com/VishShaji/Icon/blob/main/pic.jpg"/>
+  <img height="250" src="https://github.com/VishShaji/Icon/blob/main/pic_circle.jpg"/>
 </div>
 
 <div align="left">
