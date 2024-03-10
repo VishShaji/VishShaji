@@ -46,10 +46,6 @@
 </div>
 
 ###
-
-<img src="https://github.com/VishShaji/VishShaji/.github/workflow/snake.yml" alt="Snake animation" />
-
-###
 <div align="center">
   <img src="https://profile-counter.glitch.me/VishShaji/count.svg?"  />
 </div>
