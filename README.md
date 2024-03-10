@@ -11,12 +11,13 @@
 </div>
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/vishalshaji"
-    <img src="https://github.com/VishShaji/Icon/blob/main/linkedin.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="discordapp.com/users/920155547112714240">
-    <img src="https://github.com/VishShaji/Icon/blob/main/discord.svg" width="52" height="40"  alt="discord logo"  /> 
-  </a>
+<a href="https://www.linkedin.com/in/vishalshaji">
+    <img src="https://github.com/VishShaji/Icon/blob/main/linkedin.svg" width="52" height="40" alt="linkedin logo" />
+</a>
+<a href="https://discordapp.com/users/920155547112714240">
+    <img src="https://github.com/VishShaji/Icon/blob/main/discord.svg" width="52" height="40" alt="discord logo" />
+</a>
+
   
 ###
 
