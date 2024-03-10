@@ -21,6 +21,7 @@
 ###
 
 <p align="left">📚 I'm currently learning Civil Engineering bringing my technical and analytical skills up.<br>🎯 Goals: Be proficient at NLP & Dive into AWS data engineering.</p>
+
 ###
 
 <h2 align="left">I am proficient at</h2>
