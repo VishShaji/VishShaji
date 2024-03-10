@@ -24,7 +24,7 @@
 
 ###
 
-<h2 align="left">I am proficient at</h2>
+<h2 align="left">I work with</h2>
 
 ###
 
