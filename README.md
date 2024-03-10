@@ -12,6 +12,10 @@
 <div align="center">
   <img style="border-radius: 50%; overflow: hidden;" height="200" src="https://github.com/VishShaji/Icon/blob/main/pic.jpg" />
 </div>
+<div align="center">
+  <img style="border-radius: 50%; width: 200px; height: 200px; object-fit: cover;" src="https://github.com/VishShaji/Icon/blob/main/pic.jpg" />
+</div>
+
 
 
 <div align="left">
