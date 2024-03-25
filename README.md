@@ -29,7 +29,7 @@
 
 ###
 
-<p align="left">📚 I'm currently learning Civil Engineering bringing my technical and analytical skills up.<br>🎯 Goals: Be proficient at NLP & Dive into AWS data engineering.</p>
+<p align="left">📚 I'm currently pursuing Civil Engineering bringing my technical and analytical skills up.<br>🎯 Current Goals: Be proficient at NLP & Dive into AWS data engineering.</p>
 
 ###
 
